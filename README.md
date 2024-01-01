@@ -4,7 +4,7 @@
 
 ### 🎨 Resultado
 
-- O resultado pode ser conferido :arrow_right: [**AQUI**](https://ws-work.dev-araujo.repl.co/)
+- O resultado pode ser conferido :arrow_right: [**AQUI**](https://ws-work-challenge-phi.vercel.app/)
 <h1 align="center">
   
   
